@@ -123,12 +123,12 @@
             android:layout_width="120dp"
             android:layout_height="60dp"
             android:layout_gravity="center"
-            android:drawableTint="@color/maincolordark"
             android:gravity="center"
             android:text="Menu"
             android:textColor="@color/fontcolor"
             android:textSize="20sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            app:drawableTint="@color/maincolordark" />
     </androidx.cardview.widget.CardView>
 
     <androidx.constraintlayout.widget.Guideline

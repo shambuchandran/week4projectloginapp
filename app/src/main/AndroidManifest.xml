@@ -16,9 +16,6 @@
             android:name=".Homepagenew"
             android:exported="false" />
         <activity
-            android:name=".homePage"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
